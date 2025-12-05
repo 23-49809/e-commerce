@@ -48,14 +48,4 @@ Add your deployed link here:
 - Bootstrap Icons  
 - Google Fonts  
 
----
-
-## Project Structure
-/project-folder
-│── index.html
-│── style.css
-│── script.js
-│── /images
-│── /assets
-└── README.md
 
