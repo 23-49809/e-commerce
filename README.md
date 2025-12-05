@@ -9,6 +9,7 @@ This project features multiple pages, product listings, category filtering, a ca
 Add your deployed link here:
 
 **Live Preview:** e-commerce-8qkp.vercel.app
+
 **Repository:** This GitHub repo
 
 ---
