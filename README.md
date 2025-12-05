@@ -8,7 +8,7 @@ This project features multiple pages, product listings, category filtering, a ca
 ## Live Demo
 Add your deployed link here:
 
-**Live Preview:** e-commerce-nine-rho-87.vercel.app
+**Live Preview:** e-commerce-gaby.vercel.app
 **Repository:** This GitHub repo
 
 ---
